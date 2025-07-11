@@ -1,5 +1,21 @@
 # ¡Hola, mi nombre es Piero!
 
+```js
+Console.log(
+            __________                     ____      ___               
+            MMMMMMMMMM                     `MM(      )M' 68b           
+            /   MM   \                      `MM.     d'  Y89           
+                MM       _____      ___      `MM.   d'   ___ ___  __   
+                MM      6MMMMMb   6MMMMb      `MM. d'    `MM `MM 6MMb  
+                MM     6M'   `Mb 8M'  `Mb      `MMd       MM  MMM9 `Mb 
+                MM     MM     MM     ,oMM       dMM.      MM  MM'   MM 
+                MM     MM     MM ,6MM9'MM      d'`MM.     MM  MM    MM 
+                MM     MM     MM MM'   MM     d'  `MM.    MM  MM    MM 
+                MM     YM.   ,M9 MM.  ,MM    d'    `MM.   MM  MM    MM 
+               _MM_     YMMMMM9  `YMMM9'Yb._M(_    _)MM_ _MM__MM_  _MM_
+)
+
+```
 
 ## Acerca de mí
 **Soy estudiante de Ingeniería de Sistemas en la Universidad Cesar Vallejo, actualmente en el 8mo ciclo de la carrera. Apasionado por la programación y la tecnología, siempre estoy buscando aprender y explorar nuevas tecnologías y herramientas.**
