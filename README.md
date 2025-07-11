@@ -19,7 +19,7 @@
     <!-- <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black" alt="LinkedIn">
     </a> -->
-    <a href="mailto:pieroleonyaipen07a@gmail.com">
+    <a href="mailto:pieroleonyaipen07@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail">
     </a>
 </div>
