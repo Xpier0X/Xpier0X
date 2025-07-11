@@ -6,12 +6,12 @@
 
 ## Habilidades
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,&perline=4" alt="Habilidades" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,&perline=3" alt="Habilidades" /> 
 </div>
 
 ## Herramientas
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=6" alt="Herramientas" /> 
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=3" alt="Herramientas" /> 
 </div>
 
 ## Contacto
