@@ -1,7 +1,7 @@
 # ¡Hola, mi nombre es Piero!
 
 ```js
-Console.log(
+Console.log(`
             __________                     ____      ___               
             MMMMMMMMMM                     `MM(      )M' 68b           
             /   MM   \                      `MM.     d'  Y89           
@@ -13,7 +13,7 @@ Console.log(
                 MM     MM     MM MM'   MM     d'  `MM.    MM  MM    MM 
                 MM     YM.   ,M9 MM.  ,MM    d'    `MM.   MM  MM    MM 
                _MM_     YMMMMM9  `YMMM9'Yb._M(_    _)MM_ _MM__MM_  _MM_
-)
+`)
 
 ```
 
