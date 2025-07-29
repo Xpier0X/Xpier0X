@@ -20,7 +20,7 @@ Console.log(`
 ```
 
 ## Acerca de mí
-**Soy estudiante de Ingeniería de Sistemas en la Universidad Cesar Vallejo, actualmente en el 8mo ciclo de la carrera. Apasionado por la programación y la tecnología, siempre estoy buscando aprender y explorar nuevas tecnologías y herramientas.**
+**Soy estudiante de Ingeniería de Sistemas en la Universidad Cesar Vallejo, actualmente en el 9no ciclo de la carrera. Apasionado por la programación y la tecnología, siempre estoy buscando aprender y explorar nuevas tecnologías y herramientas.**
 
 ## Habilidades
 <div align="center">
